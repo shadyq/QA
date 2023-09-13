@@ -164,7 +164,7 @@
 
 **1. Ассоциативная карта**
 
-![Mindmap](https://i.ibb.co/vLMP7X8/yandex-routes.png)
+![Mindmap]([https://i.ibb.co/vLMP7X8/yandex-routes.png](https://disk.yandex.ru/i/ZtCobOb6ByR2xg))
 
 [Ассоциативная карта в большом разрешении](https://i.ibb.co/vLMP7X8/yandex-routes.png)
 
@@ -4645,6 +4645,4 @@ testYaRu();
 ```
 
 [Наверх](#up)
-
-&#169;	[Яндекс.Практикум](https://praktikum.yandex.ru) &#38;
 
