@@ -23,6 +23,10 @@
 [Основы автоматизации тестирования](#test-automation)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript | NodeJS | Puppeteer
 
+[Пример работы Charles](https://disk.yandex.ru/d/WRA_DBefszH0ug)
+
+[Диплом о прохождении курса](https://disk.yandex.ru/d/pD9WfPMMCjpOUQ)
+
 ## <a name="test-design" />Проектирование тестов
 
 ### Задание 1
