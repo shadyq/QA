@@ -164,7 +164,7 @@
 
 **1. Ассоциативная карта**
 
-![Mindmap](https://disk.yandex.ru/i/qVcH7JCMSmHGcA)
+![Mindmap](https://i.ibb.co/gJyd1M2/image.png)
 
 [Ассоциативная карта в большом разрешении](https://i.ibb.co/vLMP7X8/yandex-routes.png)
 
